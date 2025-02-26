@@ -44,8 +44,6 @@ Console.ReadKey();
 
 ---
 
-![Guy with a computer]([./image3.jpg)
-
 ## Contact information  
 
 ---
